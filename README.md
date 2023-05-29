@@ -14,7 +14,7 @@
 </div>
 <div align="left">
     ## Programming Languages
-    <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/html.svg' width='30'/> <img src='https://github.com/jamesg19/jamesg19/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/js.svg' width='30'/>
+    <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/html.svg' width='30'/> <img src='https://github.com/jamesg19/jamesg19/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/typescript.svg' width='30'/>
     <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/sql.svg' width='30'/> 
     ### Where to find me 
     <a href="https://instagram.com/jamesgramajo?igshid=OGQ5ZDc2ODk2ZA==">
