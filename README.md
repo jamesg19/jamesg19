@@ -3,8 +3,8 @@
     <h1 align="center">Hi 👋, I'm James</h1>
     <h3 align="center">I am a student of engineering in sciences and systems, I like Java and Python</h3>
 </div>
-<div align="left">
-    ### 👨‍💻 About Me :
+
+    ## 👨‍💻 About Me :
 
 
     - 🌱 I’m currently learning 
@@ -31,4 +31,3 @@
 
 
 
-</div>
