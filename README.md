@@ -19,7 +19,6 @@
     <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/sql.svg' width='30'/> 
 </div>
 
-
 <div align="left">
 
 ### 👨‍💻Where to find me :
@@ -35,4 +34,8 @@
     </a>
 </div>
 
-🇺🇸 |🇬🇹 |
+
+🇺🇲 | :flag_guatemala:   
+
+
+
