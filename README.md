@@ -3,12 +3,16 @@
     <h1 align="center">Hi 👋, I'm James</h1>
     <h3 align="center">I am a student of engineering in sciences and systems, I like Java and Python</h3>
 </div>
+<div>
+### 👨‍💻 About Me :
+
+- 🌱 I’m currently learning 
+- **React.js**
+- **React Native**
+- **Swift**
+
+</div>
 <div align="left">
-    ### 👨‍💻 About Me :
-    - 🌱 I’m currently learning 
-        **React.js**
-        **Swift**
-        **Reac Native**
     ## Programming Languages
     <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/html.svg' width='30'/> <img src='https://github.com/jamesg19/jamesg19/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/js.svg' width='30'/>
     <img src = 'https://github.com/jamesg19/jamesg19/blob/main/images/sql.svg' width='30'/> 
