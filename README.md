@@ -4,6 +4,7 @@
     <h3 align="center">I am a student of engineering in sciences and systems, I like Java and Python</h3>
 </div>
 <div>
+
 ### 👨‍💻 About Me :
 
 - 🌱 I’m currently learning 
@@ -20,8 +21,10 @@
 
 
 <div align="left">
-### Where to find me 
-    <a href="https://instagram.com/jamesgramajo?igshid=OGQ5ZDc2ODk2ZA==">
+
+### 👨‍💻Where to find me :
+
+<a href="https://instagram.com/jamesgramajo?igshid=OGQ5ZDc2ODk2ZA==">
     <img align="left" alt="James Gramajo | Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />@jamesgramajo
     </a>
     <a href="https://twitter.com/jamesgramajo">
