@@ -34,3 +34,5 @@
     <img align="left" alt="James Gramajo | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
     </a>
 </div>
+
+🇺🇸 |🇬🇹 |
