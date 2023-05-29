@@ -24,18 +24,15 @@
 ### 👨‍💻Where to find me :
 
 <a href="https://instagram.com/jamesgramajo?igshid=OGQ5ZDc2ODk2ZA==">
-    <img align="left" alt="James Gramajo | Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />@jamesgramajo
-    </a>
-    <a href="https://twitter.com/jamesgramajo">
+    <img align="left" alt="James Gramajo | Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/jamesgramajo">
     <img align="left" alt="James Gramajo | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/james-gramajo/">
+</a>
+<a href="https://www.linkedin.com/in/james-gramajo/">
     <img align="left" alt="James Gramajo | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
-    </a>
-</div>
-
-
-🇺🇲 | :flag_guatemala:   
+</a>
+</div> 
 
 
 
